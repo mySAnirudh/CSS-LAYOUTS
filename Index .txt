@@ -1,0 +1,25 @@
+
+    **** LAYOUTS ****
+
+    Hope you are very comfortable with HTML tables and you are efficient in 
+designing page layouts using HTML Tables. But you know CSS too provides 
+plenty of controls for positioning elements in a document. Since CSS is the wave 
+of the future, why not learn and use CSS instead of tables for page layout 
+purposes?
+The following list collects a few pros and cons of both the technologies:
+ Most browsers support tables, while CSS support is being slowly adopted.
+ Tables are more forgiving when the browser window size changes -
+morphing their content and wrapping to accommodate the changes 
+accordingly. CSS positioning tends to be exact and fairly inflexible.
+ Tables are much easier to learn and manipulate than CSS rules.
+But each of these arguments can be reversed:
+ CSS is pivotal to the future of Web documents and will be supported by 
+most browsers.
+ CSS is more exact than tables, allowing your document to be viewed as 
+you intended, regardless of the browser window.
+ Keeping track of nested tables can be a real pain. CSS rules tend to be 
+well organized, easily read, and easily changed.
+Finally, we would suggest you to use whichever technology makes sense to you
+and use what you know or what presents your documents in the best way.
+CSS also provides table-layout property to make your tables load much faster.
+Following is an example:
